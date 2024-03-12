@@ -1,5 +1,0 @@
-Name,MemoryStartupBytes,SwitchName,VLANID,MACAddress,Processors,Image
-VM01,2048,Internet,2,00155D00FFF1,2,WinSrv2016
-VM02,4096,Internet,2,00155D00FFF2,4,WinSrv2019
-VM03,8192,Internet,2,00155D00FFF3,6,WinSrv2022
-VM04,16384,Internet,2,00155D00FFF4,8,WinSrv2022
