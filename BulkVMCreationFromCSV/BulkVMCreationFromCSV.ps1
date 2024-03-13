@@ -1,9 +1,9 @@
 <#
 .SYNOPSIS
-    Create virtual machines by importing configuration from a csv file
+    Creates virtual machines by importing configuration from a csv file
  
 .DESCRIPTION
-	Create virtual machines by importing configuration from a csv file.
+	Creates virtual machines by importing configuration from a csv file.
 	 
 .EXAMPLE
      New-BulkVMCreationLZ -csvFilePath "C:\Scripts\VMConfigurations.csv" -ImagePath "C:\Images"
