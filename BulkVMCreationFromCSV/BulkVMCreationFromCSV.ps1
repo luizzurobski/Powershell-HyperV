@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Creates virtual machines by importing configuration from a csv file
+    Creates virtual machines by importing configuration from a csv file. For more information see the readme file.
  
 .DESCRIPTION
     Creates virtual machines by importing configuration from a csv file. For more information see the readme file.
