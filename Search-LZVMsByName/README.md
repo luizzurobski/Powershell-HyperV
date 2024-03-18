@@ -3,4 +3,4 @@ Type your parameter using the standard 'criteria1|criteria2|criteria3'.
 
 Example:  \
 \
-Search-LZVMsByName -SearchStrings 'sql|oracle|db|database'
+Get-LZVMsByName -SearchStrings 'sql|oracle|db|database'
