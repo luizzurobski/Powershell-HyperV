@@ -1,4 +1,4 @@
-function Search-LZVMsByName {
+function Get-LZVMsByName {
 
 <#
 .SYNOPSIS
@@ -13,7 +13,7 @@ function Search-LZVMsByName {
     Use this parameter to specify the search criterias. Use the standard 'criteria1|criteria2|criteria3'.
 
 .EXAMPLE
-     Search-LZVMsByName -SearchStrings 'sql|oracle|db|database'
+     Get-LZVMsByName -SearchStrings 'sql|oracle|db|database'
 
 .NOTES
     Author:  Luiz Zurobski
